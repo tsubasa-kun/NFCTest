@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NFCTest</string>
+
+    <string-array name="color_list">
+        <item>#00aac6</item>
+        <item>#dc4e97</item>
+        <item>#51aa53</item>
+        <item>#e76153</item>
+        <item>#81C7D4</item>
+        <item>#9a6dbb</item>
+        <item>#FEDFE1</item>
+        <item>#99CC00</item>
+        <item>#ea5272</item>
+        <item>#FFBB33</item>
+        <item>#B481BB</item>
+    </string-array>
+</resources>
